@@ -1,0 +1,37 @@
+body {
+    background-color: #EF0107;
+    color: #ffffff;
+    text-align: center;
+  }
+  
+  #image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    height: auto;
+  }
+  
+  #tribute-info {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    text-align: left;
+    justify-content: center;
+    position: relative;
+    margin: 0 auto;
+    font-size: 20px;
+  }
+  
+  h3 {
+    text-align: center;
+    padding: 10px 0 0 0;
+    margin: 20px 0 0 0;
+  }
+  
+  #sign-off {
+    color: #063672;
+  }
+  
+  #tribute-link {
+    color: #9C824A;
+  }
